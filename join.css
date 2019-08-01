@@ -11,7 +11,9 @@
   font-family: 'Inconsolata', monospace;
   background-color: white;
 }
-
+body{
+  background-color: #E6E3E3;
+}
 .top {
     margin-top: -8px;
     padding: 0;
