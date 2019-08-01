@@ -1,0 +1,136 @@
+
+
+.title {
+  display: flex;
+  color: #2789b3;
+  margin-left: 300px;
+  margin-right: 300px;
+  justify-content: center;
+  flex-flow: row;
+  font-size: 40px;
+  font-family: 'Inconsolata', monospace;
+  background-color: white;
+}
+
+.top {
+    margin-top: -8px;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: "Inconsolata", monospace;
+    flex-direction: row;
+    height: 1.25in;
+    font-size: 50px;
+    margin-bottom: 0;
+    background-color: #2789B3;
+    color: white;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.navBar{
+display: flex;
+justify-content:space-around;
+margin-left: 5%;
+margin-right: 5%;
+}
+.tabs{
+display: flex;
+align-items: center;
+justify-content: center;
+text-align: center;
+font-size: 20px;
+width: 20%;
+height: 45px;
+padding-top: 10px;
+padding-bottom: 10px;
+background-color:#68D3FF;
+font-family: 'Inconsolata', monospace;
+}
+.tabs:hover{
+text-decoration: underline;
+background-color: #FFAE52;
+}
+a{
+color: #454444;
+}
+
+.expo {
+    font-family: 'Inconsolata', monospace;
+    text-align: center;
+    background-color: #FFAE52;
+    margin: 0px 0px 0px;
+    margin-left: 5%;
+    margin-right: 5%;
+    color: black;
+}
+
+}
+.picture{
+  width: 310px;
+  height: 200px;
+  object-fit: cover;
+}
+
+.photo {
+  display: flex;
+  flex-wrap: nowrap;
+  margin-left: 5%;
+  margin-right: 5%;
+}
+
+img {
+  display: flex;
+  flex-wrap: nowrap;
+  flex-direction: row;
+}
+
+#first{
+  height: 200px;
+  width: 25%;
+  object-fit: cover;
+}
+#second{
+  height: 200px;
+  width: 25%;
+  object-fit: cover;
+}
+#third {
+  height: 200px;
+  width: 25%;
+  object-fit: cover;
+}
+#fourth {
+  height: 200px;
+  width: 25%;
+  object-fit: cover;
+}
+input{
+  width: 300px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+h2{
+  display: flex;
+  color: #2789b3;
+  justify-content: center;
+  font-family: 'Inconsolata', monospace;
+
+}
+.stuff{
+margin-top: 50px;
+  display: flex;
+  flex-wrap: nowrap;
+  color: #2789b3;
+  height: 200px;
+  justify-content: center;
+  text-align: center;
+  flex-direction: column;
+  font-family: 'Inconsolata', monospace;
+}
+
+input {
+    margin-left: 470px;
+}
